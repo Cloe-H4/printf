@@ -1,0 +1,1 @@
+Using the recently acquired beginner knowledge of c programming to try creating the printf function in collaboration with another c programming beginner. This repository is also represents first trials and practices in github collaboration.
