@@ -65,7 +65,7 @@ int print_str(char *s)
 
 /**
  * print_etc - prints the full specifier;
- *
+ * @etc: character inputted
  * Return: 2 as total prints
  */
 
