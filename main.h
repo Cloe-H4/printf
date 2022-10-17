@@ -6,7 +6,7 @@
 
 int _printf(const char *format, ...);
 int _writeit(char c);
-int check_display(char *c, va_list de_list);
+int check_display(char c, va_list de_list);
 
 /*switch functions*/
 int print_num(int n);
