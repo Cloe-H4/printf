@@ -4,7 +4,7 @@
 /**
  * check_display - display inputted chararcters according to the format.
  * @c: inputted character
- * de_list: listed format inputs
+ * @de_list: listed format inputs
  * Return: number of printed characters
  */
 
@@ -21,7 +21,7 @@ int check_display(char c, va_list de_list)
 			num = print_str(va_arg(de_list, char *));
 			break;
 		case 'i':
-			num = print_num(va_Arg(de_list, int));
+			num = print_num(va_arg(de_list, int));
 			break;
 		case 'd':
 			num = print_num(va_arg(de_list, int));
